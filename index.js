@@ -53,7 +53,7 @@ const config = {
     instagram: 'https://www.instagram.com/davellyno.djossie/', // INFO JANGAN DI UBAH
     nomer: 'wa.me/6288291819839', // INFO SU JNGAN DI UBAH
     youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg', // KINTIL
-    whatsapp: 'https://chat.whatsapp.com/JMWXHNUbHYtHYWBLweyCPD', // BABI
+    whatsapp: 'https://chat.whatsapp.com/CYY6SmKJ7RA0Dl9rdxNbCZ', // BABI
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
